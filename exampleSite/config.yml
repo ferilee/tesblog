@@ -43,7 +43,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: My Portofolio
+    title: Beranda
     text: Welcome to Piko
     icon: /uploads/zap.svg
     iconHeight: "35"
@@ -135,22 +135,22 @@ menus:
     weight: "20"
   - name: Artefak Aksi Nyata
     title: Artefak Aksi Nyata
-    pre: person-walking
+    pre: pen-tool
     url: "/aksinyata"
     weight: "21"
   - name: Kursus dan Sertifikat
     title: Kursus dan Sertifikat
-    pre: file-certificate
+    pre: pen-tool
     url: "/sertifikat"
     weight: "22"
   - name: Publikasi
     title: Publikasi
-    pre: file
+    pre: pen-tool
     url: "/publikasi"
     weight: "23"
   - name: Umpan Balik
     title: Umpan Balik
-    pre: comments
+    pre: pen-tool
     url: "/feedback"
     weight: "24"
   - name: Search
