@@ -37,7 +37,7 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
+  author: Ferilee
   description: Your website description
   math: false
   images:
@@ -79,9 +79,9 @@ params:
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    heroBackgroundImage: "/uploads/portfolio-0.webp"
     # Blog Section
-    disableBlogSection: false
+    disableBlogSection: true
     blogTitle: Latest Posts
     blogDescription: This is my latest blog posts
     seeMoreText: More Posts
@@ -133,6 +133,26 @@ menus:
     pre: pen-tool
     url: "/blog"
     weight: "20"
+  - name: Artefak Aksi Nyata
+    title: Artefak Aksi Nyata
+    pre: pen-tool
+    url: "/aksinyata"
+    weight: "21"
+  - name: Kursus dan Sertifikat
+    title: Kursus dan Sertifikat
+    pre: pen-tool
+    url: "/sertifikat"
+    weight: "22"
+  - name: Publikasi
+    title: Publikasi
+    pre: pen-tool
+    url: "/publikasi"
+    weight: "23"
+  - name: Umpan Balik
+    title: Umpan Balik
+    pre: pen-tool
+    url: "/feedback"
+    weight: "24"
   - name: Search
     title: Search
     pre: search
