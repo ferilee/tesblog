@@ -1,5 +1,5 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://tesblog.netlify.app/
 languageCode: en-us
 title: Piko
 theme: piko
@@ -43,7 +43,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
+    title: My Portofolio
     text: Welcome to Piko
     icon: /uploads/zap.svg
     iconHeight: "35"
@@ -73,8 +73,8 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroTitle: Ferilee
+    heroDescription: Portofolio Ferilee
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
