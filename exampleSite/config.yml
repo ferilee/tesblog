@@ -128,11 +128,11 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: Blog
-    title: Blog
-    pre: pen-tool
-    url: "/blog"
-    weight: "20"
+  # - name: Blog
+  #  title: Blog
+  #  pre: pen-tool
+  #  url: "/blog"
+  #  weight: "20"
   - name: Artefak Aksi Nyata
     title: Artefak Aksi Nyata
     pre: pen-tool
