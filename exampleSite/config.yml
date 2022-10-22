@@ -135,22 +135,22 @@ menus:
     weight: "20"
   - name: Artefak Aksi Nyata
     title: Artefak Aksi Nyata
-    pre: pen-tool
+    pre: person-walking
     url: "/aksinyata"
     weight: "21"
   - name: Kursus dan Sertifikat
     title: Kursus dan Sertifikat
-    pre: pen-tool
+    pre: file-certificate
     url: "/sertifikat"
     weight: "22"
   - name: Publikasi
     title: Publikasi
-    pre: pen-tool
+    pre: file
     url: "/publikasi"
     weight: "23"
   - name: Umpan Balik
     title: Umpan Balik
-    pre: pen-tool
+    pre: comments
     url: "/feedback"
     weight: "24"
   - name: Search
@@ -158,16 +158,7 @@ menus:
     pre: search
     url: "/search"
     weight: "30"
-  - name: Contact
-    title: Contact
-    pre: mail
-    url: "/contact"
-    weight: "40"
-  - name: Github
-    title: 
-    pre: github
-    url: https://github.com/heksagonnet/piko
-    weight: "50"
+
   search: # Search page's quick links
   - name: Categories
     title: Categories
