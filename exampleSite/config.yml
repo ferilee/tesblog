@@ -1,9 +1,9 @@
 ---
 baseURL: https://tesblog.netlify.app/
 languageCode: en-us
-title: Piko
+title: Ferilee
 theme: piko
-paginate: "9"
+paginate: "5"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
@@ -39,7 +39,7 @@ params:
   env: production
   author: Ferilee
   description: Your website description
-  math: false
+  math: true
   images:
   - "/uploads/og.webp"
   label:
@@ -90,15 +90,7 @@ params:
     aboutTitle: About
     aboutDescription: Just something about me
     aboutImgUrl: "/uploads/png_20221023_093251_0000.png"
-    aboutContent: Hi guys. This is where you put something about yourself.
-   
-    # Artefak Section    
-    disableArtefakSection: false
-    artefakTitle: Aksi Nyata
-    artefakDescription: Tes Aksi Nyata
-    artefakImgUrl: "/uploads/self.webp"
-    artefakContent: Hi guys. This is where you put something about yourself.
-    
+    aboutContent: Hi guys. This is where you put something about yourself.   
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
@@ -143,22 +135,22 @@ menus:
   #  weight: "20"
   - name: Aksi
     title: Artefak Aksi Nyata
-    pre: pen-tool
+    pre: activity
     url: "/aksinyata"
     weight: "21"
   - name: Kursus dan Sertifikat
     title: Kursus dan Sertifikat
-    pre: pen-tool
+    pre: award
     url: "/sertifikat"
     weight: "22"
   - name: Publikasi
     title: Publikasi
-    pre: pen-tool
+    pre: upload
     url: "/publikasi"
     weight: "23"
   - name: Umpan Balik
     title: Umpan Balik
-    pre: pen-tool
+    pre: message-square
     url: "/feedback"
     weight: "24"
   - name: Search
