@@ -74,4 +74,5 @@ fields:
     name: hidden
     label: hidden
 pages:
+- exampleSite/content/aksinyata/modul-1.md
 - exampleSite/content/blog/profil.md
