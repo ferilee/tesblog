@@ -91,12 +91,14 @@ params:
     aboutDescription: Just something about me
     aboutImgUrl: "/uploads/self.webp"
     aboutContent: Hi guys. This is where you put something about yourself.
+   
     # Artefak Section    
-    disableAboutSection: false
-    aboutTitle: Aksi
-    aboutDescription: Tes Aksi Nyata
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    disableArtefakSection: false
+    artefakTitle: Aksi Nyata
+    artefakDescription: Tes Aksi Nyata
+    artefakImgUrl: "/uploads/self.webp"
+    artefakContent: Hi guys. This is where you put something about yourself.
+    
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
