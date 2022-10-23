@@ -9,7 +9,6 @@ date = 2022-10-22T17:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -25,4 +24,4 @@ image = ""
 relative = false
 
 +++
-Ini adalah isi dari paket modul 1
+Ini adalah isi dari paket modul 2
