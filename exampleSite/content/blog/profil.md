@@ -1,8 +1,8 @@
 +++
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
-ShowReadingTime = false
-TocOpen = false
+ShowReadingTime = true
+TocOpen = true
 categories = []
 comments = true
 date = ""
@@ -12,7 +12,7 @@ disableShare = false
 hideSummary = false
 hidemeta = false
 searchHidden = false
-showToc = false
+showToc = true
 tags = []
 title = "Profil"
 url = ""
@@ -20,8 +20,8 @@ url = ""
 alt = ""
 caption = ""
 hidden = false
-image = ""
-relative = false
+image = "/uploads/png_20221023_093251_0000.png"
+relative = true
 
 +++
 Hai
