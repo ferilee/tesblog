@@ -2,7 +2,7 @@
 ShowBreadCrumbs = false
 ShowPostNavLinks = false
 ShowReadingTime = true
-TocOpen = true
+TocOpen = false
 categories = ["Profil"]
 comments = true
 date = 2022-10-22T17:00:00Z
