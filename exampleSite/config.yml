@@ -86,11 +86,10 @@ params:
     aboutTitle: About
     aboutDescription: Ferilee
     aboutImgUrl: "/uploads/png_20221023_093251_0000.png"
-    aboutContent: Hai, salam kenal dariku.  Terima kasih telah mengunjungi blogku
-      yang sederhana ini. Blog ini aku buat sebagai media perkenalan dariku, sekaligus
-      menjadi tempat menyalurkan hobi menulisku.  Blog ini berisi tentang aktivitas-aktivitas
-      yang aku lakukan setiap hari yang berhubungan dengan dunia pendidikan dan teknologi.
-      Semoga bisa menjadi inspirasi dan bermanfaat ya bestiee, heheheee ...
+    aboutContent: Feri Dwi Hermawan. Seorang guru matematika yang gemar mempelajari
+      dunia digital. Akrab dipanggil dengan sebutan ferilee sejak kuliah dulu, karena
+      menyukai bela diri hehehehee … Aktif di beberapa komunitas digital seperti Indonesia
+      Digital Teacher, Matematika Nusantara, dan menyukai channel seperti GimpScape.
     disablePortfolioSection: false
     portfolioTitle: Portfolio
     portfolioDescription: Some of my works
