@@ -89,7 +89,7 @@ params:
     disableAboutSection: false
     aboutTitle: About
     aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
+    aboutImgUrl: "/uploads/png_20221023_093251_0000.png"
     aboutContent: Hi guys. This is where you put something about yourself.
    
     # Artefak Section    
